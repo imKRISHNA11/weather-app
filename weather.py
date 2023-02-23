@@ -1,6 +1,6 @@
 import requests as reqs
 
-weather_api_key = "f53e862310035742d40630a15cddc213" # Pls enter your own Api by OpenWeather Website
+weather_api_key = "enter your api here" # Pls enter your own Api by OpenWeather Website
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
 
 city_name = input("Enter your city name : ")
